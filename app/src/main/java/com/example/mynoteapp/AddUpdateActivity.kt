@@ -26,7 +26,7 @@ class AddUpdateActivity : AppCompatActivity() {
         aua_btn_save.onClick {
             insertNewNote()
         }
-        
+
     }
 
     private fun generateDate() {
